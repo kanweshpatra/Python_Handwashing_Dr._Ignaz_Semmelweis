@@ -1,5 +1,4 @@
 # Python_Handwashing_Dr._Ignaz_Semmelweis
-# Python_Handwashing_Dr._Ignaz_Semmelweis
 <b>Proportion of deaths as against births in 2 different clinics over a span of 6 years </b>
 ![Screenshot_20220612-192627__01](https://user-images.githubusercontent.com/64611037/173237125-b13c1e7a-e6d5-4d4a-b6d8-6dc49402edef.jpg)
 <b>Proportion of deaths after the doctors started washing their hands</b>
